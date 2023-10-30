@@ -1,0 +1,16 @@
+.works{
+    scroll-behavior: smooth;
+    scroll-snap-type: y mandatory;
+    scrollbar-width: none;  /*only for firfox */
+    &::-webkit-scrollbar{
+        display: none;
+    }
+    background-color: lightgreen;
+    .name{
+        font-size: 60px;
+         text-align: center;
+         font-weight: 700;
+         margin-bottom: calc();
+
+     }
+}

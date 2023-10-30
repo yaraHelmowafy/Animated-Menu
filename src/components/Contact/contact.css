@@ -1,0 +1,9 @@
+.contact{
+    background-color: lightblue;
+    .name{
+       font-size: 60px;
+        text-align: center;
+        font-weight: 700;
+      
+    }
+}
